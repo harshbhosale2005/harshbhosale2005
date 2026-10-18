@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Harsh. I am a Java developer with a strong foundation in building efficient and scalable applications. I specialize in Core Java, Advanced Java, MySQL, JDBC, and the Collection Framework, along with front-end technologies like HTML, CSS, Bootstrap, and Tailwind CSS. I have experience in developing web applications using Servlet & JSP, and have worked with Hibernate ORM and Spring Framework. Currently, I am mastering Spring Boot. I enjoy solving complex problems and continuously learning new technologies to build impactful software solutions.
+Hello, my name is Harsh. I am an Aspiring Java developer with a strong foundation in building efficient and scalable applications. I specialize in Core Java, Advanced Java, MySQL, JDBC, and the Collection Framework, along with front-end technologies like HTML, CSS, Bootstrap, and Tailwind CSS. I have experience in developing web applications using Servlet & JSP, and have worked with Hibernate ORM and Spring Framework. Currently, I am mastering Spring Boot. I enjoy solving complex problems and continuously learning new technologies to build impactful software solutions.
 
 
 # 💻 Tech Stack:
